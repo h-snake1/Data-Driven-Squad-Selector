@@ -1,4 +1,4 @@
-Screenshot (78).png"
+![Dashboard Preview] (Screenshot (78).png)
 
 # Project Title: T20 World Cup Cricket Dashboard
 
