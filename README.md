@@ -1,6 +1,6 @@
 ![Dashboard Preview](Screenshot(78).png)
 
-### Data-Driven-Squad-Selector
+# Data-Driven-Squad-Selector
 
 ## Objective:
 To design an interactive dashboard that visualizes comprehensive insights from the ICC T20 World Cup, enabling exploration of match results, team performances, player stats, and win/loss analysis.
