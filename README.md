@@ -1,5 +1,5 @@
-![Dashboard Preview] (Screenshot (78).png)
-
+![Dashboard Preview](Screenshot(78).png)
+![flappy_bird](flappybird.png)
 # Project Title: T20 World Cup Cricket Dashboard
 
 ## Objective:
