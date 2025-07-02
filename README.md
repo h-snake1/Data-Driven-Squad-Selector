@@ -1,6 +1,6 @@
 ![Dashboard Preview](Screenshot(78).png)
-![flappy_bird](flappybird.png)
-# Project Title: T20 World Cup Cricket Dashboard
+
+# Project Title: Data-Driven-Squad-Selector
 
 ## Objective:
 To design an interactive dashboard that visualizes comprehensive insights from the ICC T20 World Cup, enabling exploration of match results, team performances, player stats, and win/loss analysis.
